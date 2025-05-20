@@ -1,0 +1,8 @@
+Emails: hello@domain.com, john.doe@service.co.uk
+Websites: https://www.example.com, http://blog.site.org/post
+Phones: (123) 456-7890, 123-456-7890, 123.456.7890
+Cards: 1234 5678 9012 3456, 1234-5678-9012-3456
+Times: 14:30, 2:45 PM, 02:00 AM, 23:59
+Tags: <html>, <body class="main">, <img src="x.jpg">
+Trending: #TechNews, #PythonRocks
+Prices: $19.99, $1,234.56
