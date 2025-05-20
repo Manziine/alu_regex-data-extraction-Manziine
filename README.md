@@ -19,6 +19,7 @@ This project is a Python tool that uses regular expressions to extract different
 ✅ Currency amounts
   
   🧪 Sample Input 
+
 Contact us at john.doe@service.co.uk or hello@domain.com.  
 Call us on (123) 456-7890 or 123-456-7890 or 123.456.7890.  
 Visit https://www.example.com or http://blog.site.org/post.  
@@ -29,6 +30,7 @@ Trending: #PythonRocks and #TechNews.
 Prices: $19.99 and $1,234.56.
 
     📤 Sample Output
+
 Email Addresses:
 
 john.doe@service.co.uk
@@ -83,13 +85,21 @@ $19.99
 $1,234.56
 
   📦 Setup Instructions
+
 1. Clone this repository:
+
   git clone https://github.com/yourusername/alu_regex-data-extraction-yourusername
+
 cd alu_regex-data-extraction-yourusername
+
 2. Make sure Python 3 is installed 
+
 3. Run the script:
+
     python runner.py
+
 📂 File Structure
+
 regex_extractors.py: Contains all regex functions.
 
 runner.py: Loads data, calls extractors, and prints results.
