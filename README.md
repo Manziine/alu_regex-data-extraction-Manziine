@@ -2,6 +2,7 @@ ALU Regex Data Extraction
 This project is a Python tool that uses regular expressions to extract different types of information from a large body of text (e.g., from web responses).
 
 🔍 What It Extracts
+
 ✅ Email addresses
 
 ✅ URLs
@@ -21,12 +22,19 @@ This project is a Python tool that uses regular expressions to extract different
   🧪 Sample Input 
 
 Emails: hello@domain.com, john.doe@service.co.uk
+
 Websites: https://www.example.com, http://blog.site.org/post
+
 Phones: (123) 456-7890, 123-456-7890, 123.456.7890
+
 Cards: 1234 5678 9012 3456, 1234-5678-9012-3456
+
 Times: 14:30, 2:45 PM, 02:00 AM, 23:59
+
 Tags: <html>, <body class="main">, <img src="x.jpg">
+
 Trending: #TechNews, #PythonRocks
+
 Prices: $19.99, $1,234.56
 
     📤 Sample Output
@@ -63,7 +71,7 @@ HTML Tags:
 
  - <img src="x.jpg">
  - <body class="main">
- - <html>
+ - <html> 
 
 Hashtags:
  - #PythonRocks
